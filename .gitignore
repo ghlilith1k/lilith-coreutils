@@ -34,4 +34,7 @@ grep/target
 ls/target
 mkdir/target
 mv/target
+echo/target
+sed/target
+less/target
 /build
