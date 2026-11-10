@@ -27,3 +27,11 @@ rustc-ice-*.txt
 # Added by cargo
 
 /target
+cat/target
+cd/target
+cp/target
+grep/target
+ls/target
+mkdir/target
+mv/target
+/build
